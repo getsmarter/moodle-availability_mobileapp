@@ -15,20 +15,11 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
-<<<<<<< HEAD
- * Defines {@link \availability_mobileapp\privacy\provider} class.
- *
- * @package     availability_mobileapp
- * @category    privacy
- * @copyright   2018 Sara Arjona <sara@moodle.com>
- * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
-=======
  * Privacy subsystem implementation.
  *
  * @package availability_mobileapp
  * @copyright 2019 The Open University
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
->>>>>>> 2be2977 (Add support for privacy API)
  */
 
 namespace availability_mobileapp\privacy;
